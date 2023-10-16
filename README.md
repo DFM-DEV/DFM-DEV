@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DFM-DEV
-- 👀 I’m interested in Software Development and Project Management
-- 🌱 I’m currently learning Project Management & Web Dev 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a SW developer
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 
 
 <!---
